@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  Software Engineering Student • Web Development • Music Lover 🎧
+  Software Engineering Student • Web Development • 🎧
 </p>
 
 <p align="center">
