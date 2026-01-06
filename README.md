@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bryanbe/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/bryanbe/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -18,11 +16,9 @@
 ## 👨‍💻 About Me
 
 - 👨‍💻 I’m currently working on web development technologies like **JavaScript, React**, etc.
-- 📚 Learning **Frontend + Backend** (step by step 😅).
+- 📚 Learning **Frontend + Backend**.
 - 🎵 Music is my main inspiration while coding.
 - 💪🏼 Goal: learn more technologies — keep building and shipping.
-
----
 
 ## 🧩 Tech Stack
 
@@ -40,7 +36,7 @@
       </p>
       <ul>
         <li>Focus: TS + JS + clean code</li>
-        <li>Comfortable: Java/Python for CS & backend fundamentals</li>
+        <li>Comfortable: Java/Python for computer science fundamentals & backend fundamentals</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -48,7 +44,7 @@
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
       </p>
       <ul>
         <li>Building UI with component-based architecture</li>
@@ -63,7 +59,7 @@
       <p>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
       </p>
       <ul>
@@ -85,6 +81,3 @@
     </td>
   </tr>
 </table>
-
----
-
